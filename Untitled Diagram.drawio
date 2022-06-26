@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T14:33:09.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BShqhH1MzZ4C8kq90j_m" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T23:18:19.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rqQMEyCZYh7Qz629f6O6" version="20.0.3" type="github" pages="2">
   <diagram id="v2z8GFz1xVQ4nOBSHtJG" name="Page-1">
-    <mxGraphModel dx="1148" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1952" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -496,7 +496,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m3zqbhuXS4XEQ-KiTBQG" name="Page-2">
-    <mxGraphModel dx="1627" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1627" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -513,13 +513,13 @@
           <mxGeometry x="1070" y="1240" width="290" height="680" as="geometry" />
         </mxCell>
         <mxCell id="dn1m786RO3zcUYOW7HXG-1" value="&lt;b&gt;Fare Management&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="1850" width="290" height="540" as="geometry" />
+          <mxGeometry x="1700" y="720" width="290" height="540" as="geometry" />
         </mxCell>
         <mxCell id="dn1m786RO3zcUYOW7HXG-2" value="&lt;b&gt;Wage Management&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1770" y="1250" width="290" height="540" as="geometry" />
+          <mxGeometry x="1700" y="140" width="290" height="540" as="geometry" />
         </mxCell>
         <mxCell id="dn1m786RO3zcUYOW7HXG-3" value="&lt;b&gt;Report Generation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="650" width="290" height="540" as="geometry" />
+          <mxGeometry x="1440" y="1760" width="290" height="540" as="geometry" />
         </mxCell>
         <mxCell id="0GuDl4-vYvCAD-Pd364I-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QbXDEciHHlGWPQ2NzEY3-1" target="0GuDl4-vYvCAD-Pd364I-1">
           <mxGeometry relative="1" as="geometry">
@@ -810,6 +810,80 @@
         </mxCell>
         <mxCell id="nhHGvkGRpn0_6TyRCmn7-20" value="Review Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1530" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-1" target="1Q_KcokkeaD7j7Go2I7y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-1" target="1Q_KcokkeaD7j7Go2I7y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="1Q_KcokkeaD7j7Go2I7y-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-1" target="1Q_KcokkeaD7j7Go2I7y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-1" value="Payment Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-3" target="1Q_KcokkeaD7j7Go2I7y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-3" value="TI01. Ask Optional Tip" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="310" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-4" value="TI01. Compute Fare Amount" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="200" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-7" value="Payment System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-8" target="1Q_KcokkeaD7j7Go2I7y-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-8" value="TI01. Process Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="420" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-11" value="Rider" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-17" target="1Q_KcokkeaD7j7Go2I7y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-17" value="TI01. Display Total Fare" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="530" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-20" target="1Q_KcokkeaD7j7Go2I7y-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-20" value="Wage Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="830" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-24" value="TI01. Set Wage Payment Period a Month" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="780" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-25" value="TI01. Change Wage Payment Period" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-26" target="1Q_KcokkeaD7j7Go2I7y-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-26" target="1Q_KcokkeaD7j7Go2I7y-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1Q_KcokkeaD7j7Go2I7y-26" target="1Q_KcokkeaD7j7Go2I7y-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-26" value="Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="960" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-28" value="TI01. Deduct Service Fee for &lt;br&gt;Each Ride Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="970" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_KcokkeaD7j7Go2I7y-30" value="TI01. Calculate Actual Wage Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="1070" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
