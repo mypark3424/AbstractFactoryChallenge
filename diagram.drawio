@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T08:19:28.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B78E7XnqtMWXyJTAyU-4" version="20.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-29T08:23:40.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="R8OfVBe0C5aqtMsUYGqq" version="20.0.3" type="github" pages="4">
   <diagram id="v2z8GFz1xVQ4nOBSHtJG" name="Page-1">
     <mxGraphModel dx="972" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -1896,7 +1896,7 @@
             <mxPoint x="1485" y="390.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-16" value="Greet Rider" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-16" value="Greet Driver" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1200" y="370.00000000000006" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBoJoHmXaDIDTuTMtxjQ-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=15;fontColor=default;endArrow=open;endFill=0;strokeColor=default;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-18" target="SBoJoHmXaDIDTuTMtxjQ-20">
@@ -1950,7 +1950,7 @@
         <mxCell id="SBoJoHmXaDIDTuTMtxjQ-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=15;fontColor=default;endArrow=open;endFill=0;strokeColor=default;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-31" target="SBoJoHmXaDIDTuTMtxjQ-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-31" value="Register &lt;br&gt;Rider Profile" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-31" value="Register &lt;br&gt;Driver Profile" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1785" y="154.99999999999997" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SBoJoHmXaDIDTuTMtxjQ-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=15;fontColor=default;endArrow=open;endFill=0;strokeColor=default;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-33" target="SBoJoHmXaDIDTuTMtxjQ-16">
@@ -1970,14 +1970,14 @@
             <mxPoint x="2045" y="235.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-36" value="Register Card" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1975" y="162.49999999999997" width="140" height="35" as="geometry" />
+        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-36" value="Register &lt;br&gt;Bank Account" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1975" y="156.25" width="140" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="SBoJoHmXaDIDTuTMtxjQ-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=20;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=15;fontColor=default;endArrow=open;endFill=0;strokeColor=default;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-38" target="SBoJoHmXaDIDTuTMtxjQ-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-38" value="Send&lt;br&gt;&quot;Card Verification&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1975" y="220.00000000000003" width="160" height="40" as="geometry" />
+        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-38" value="Send&lt;br&gt;&quot;Bank Account Verification&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="220" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SBoJoHmXaDIDTuTMtxjQ-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=15;fontColor=default;endArrow=open;endFill=0;strokeColor=default;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-41" target="SBoJoHmXaDIDTuTMtxjQ-36">
           <mxGeometry relative="1" as="geometry">
@@ -2084,7 +2084,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-67" value="Send&lt;br&gt;&quot;Rider Location&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-67" value="Send&lt;br&gt;&quot;Driver Location&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1928.1999999999998" y="520" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBoJoHmXaDIDTuTMtxjQ-68" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=70;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=15;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=default;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-69" target="SBoJoHmXaDIDTuTMtxjQ-67">
@@ -2101,26 +2101,6 @@
         </mxCell>
         <mxCell id="SBoJoHmXaDIDTuTMtxjQ-72" value="Receive&lt;br&gt;&quot;Estimated pick-up time&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1490" y="1500" width="189" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=85;exitDy=40;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=15;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=default;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-74" target="SBoJoHmXaDIDTuTMtxjQ-77">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-74" value="Receive&lt;br&gt;&quot;Pickup Notificiation&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2128.2" y="370.00000000000006" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-75" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=20;entryDy=20;entryPerimeter=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=15;fontColor=default;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=default;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-77" target="SBoJoHmXaDIDTuTMtxjQ-74">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2098.2" y="470.00000000000006" />
-              <mxPoint x="2098.2" y="390.00000000000006" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.036;entryY=0.916;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-77" target="SBoJoHmXaDIDTuTMtxjQ-90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-77" value="Display Notification" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2143.2" y="450.00000000000006" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBoJoHmXaDIDTuTMtxjQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SBoJoHmXaDIDTuTMtxjQ-79" target="SBoJoHmXaDIDTuTMtxjQ-95">
           <mxGeometry relative="1" as="geometry" />
@@ -2316,6 +2296,12 @@
         </mxCell>
         <mxCell id="SBoJoHmXaDIDTuTMtxjQ-126" value="Menu?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1195" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-128" value="Register &lt;br&gt;Vehicles" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1977.5" y="86.25" width="140" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SBoJoHmXaDIDTuTMtxjQ-129" value="Register &lt;br&gt;Driver License" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1975" y="12.5" width="140" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
