@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T17:01:02.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="C5hHD2gzlQuxQJ30frJS" version="20.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-29T17:06:59.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0odlSTVH4WMHLWyCEtNN" version="20.0.3" type="github" pages="6">
   <diagram id="v2z8GFz1xVQ4nOBSHtJG" name="Page-1">
     <mxGraphModel dx="1011" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -2662,9 +2662,6 @@
         <mxCell id="QgrYwsx81yU-yYtzoaWP-13" value="Receive&lt;br&gt;&quot;Notify Acceptance&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-2295" y="1300" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QgrYwsx81yU-yYtzoaWP-14" value="Find Nearby Drivers" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-2295" y="1450" width="175" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="qW6eGCMkiKMMvHgUe1I6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=default;strokeWidth=1;" edge="1" parent="1" source="qW6eGCMkiKMMvHgUe1I6-1" target="QgrYwsx81yU-yYtzoaWP-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2677,13 +2674,14 @@
           <mxGeometry x="-2230" y="1390" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDMvDuRVR7CrrqYIGOF0-2" value="Trip Request to Drivers" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-2292.5" y="1550" width="175" height="60" as="geometry" />
+          <mxGeometry x="-2292.5" y="1590" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDMvDuRVR7CrrqYIGOF0-3" value="Receive&lt;br&gt;&quot;Accept Trip Request&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-2295" y="1650" width="180" height="50" as="geometry" />
+          <mxGeometry x="-2295" y="1670" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JDMvDuRVR7CrrqYIGOF0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=default;strokeWidth=1;" edge="1" parent="1" source="JDMvDuRVR7CrrqYIGOF0-4" target="QgrYwsx81yU-yYtzoaWP-14">
+        <mxCell id="JDMvDuRVR7CrrqYIGOF0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=default;strokeWidth=1;" edge="1" parent="1" source="JDMvDuRVR7CrrqYIGOF0-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2120" y="1465" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2030" y="1760" />
               <mxPoint x="-2030" y="1465" />
@@ -2750,7 +2748,7 @@
           <mxGeometry x="-1991.25" y="2550" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCniugWnc9_kp5f89INp-3" value="Send&lt;br&gt;&quot;Pickup Notification&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="1130" width="192.5" height="50" as="geometry" />
+          <mxGeometry x="-352.5" y="870" width="192.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCniugWnc9_kp5f89INp-4" value="Display Trip Route" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-602.5" y="880" width="175" height="60" as="geometry" />
@@ -2805,6 +2803,24 @@
         </mxCell>
         <mxCell id="D5Y-L5C5qrXKJtNB-I5D-12" value="Get Current&lt;br&gt;Rider Location" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1167.75" y="1032.5" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5Y-L5C5qrXKJtNB-I5D-13" value="Receive&lt;br&gt;&quot;Nearby Driver List&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2312.5" y="1510" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5Y-L5C5qrXKJtNB-I5D-14" value="Send&lt;br&gt;&quot;Find Nearby Drivers&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2301.25" y="1440" width="192.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D5Y-L5C5qrXKJtNB-I5D-16" value="Receive&lt;br&gt;&quot;Start Pickup Notification&quot;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="520" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5Y-L5C5qrXKJtNB-I5D-18" value="Update Vehicle Location" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-352.5" y="690" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D5Y-L5C5qrXKJtNB-I5D-19" value="Estimate Arrival Time" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-352.5" y="780" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fsgloLmUxuS4YUcaEfn-1" value="" style="shape=collate;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-285.0000000000001" y="615" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
