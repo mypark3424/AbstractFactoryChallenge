@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T14:35:16.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ap5YJxxU-2VZIcYtcE3b" version="20.0.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-07-06T14:38:31.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="E3ffJEVHp3M55btG84wl" version="20.0.4" type="github" pages="15">
   <diagram id="v2z8GFz1xVQ4nOBSHtJG" name="Page-1">
     <mxGraphModel dx="1418" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -5885,7 +5885,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="N-Tier+MVC+Dispatcher+Event" id="k_4XkpJ-Tedkaw9yAYrd">
-    <mxGraphModel dx="851" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="8d1bDVxOXpWUS_xMukqv-0" />
         <mxCell id="8d1bDVxOXpWUS_xMukqv-1" parent="8d1bDVxOXpWUS_xMukqv-0" />
@@ -6230,11 +6230,11 @@
         <mxCell id="kzEqu6fVdty1tSdfyyD1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=12;fontColor=#0022FF;strokeColor=default;strokeWidth=1;fillColor=#FFFFFF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="550" y="230" width="588.13" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="kzEqu6fVdty1tSdfyyD1-10" value="Mobile App for Driver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="155.31" y="50" width="238" height="30" as="geometry" />
+        <mxCell id="kzEqu6fVdty1tSdfyyD1-10" value="Mobile App for Rider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="155.31" y="53" width="238" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kzEqu6fVdty1tSdfyyD1-12" value="Mobility Sharing System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="692.16" y="242.51" width="290.44" height="30" as="geometry" />
+          <mxGeometry x="692.16" y="240" width="290.44" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kzEqu6fVdty1tSdfyyD1-17" value="Mobile App for Rider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="91.27000000000001" y="165.51" width="100" height="30" as="geometry" />
@@ -6409,6 +6409,9 @@
         </mxCell>
         <mxCell id="jNYVH0zdpEZ1NI6fA9uF-1" value="&lt;b&gt;dWage Manager&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=10;fontColor=#000000;strokeColor=default;strokeWidth=1;fillColor=#DBDBDB;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="385.88" y="710" width="90" height="39.88" as="geometry" />
+        </mxCell>
+        <mxCell id="cWnVXSd_lV1wyVtjYD4A-1" value="Mobile App for Driver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="157" y="583.51" width="238" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
